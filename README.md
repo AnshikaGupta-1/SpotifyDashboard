@@ -164,17 +164,6 @@ The dashboard is built using a Spotify streaming dataset containing information 
 
 ---
 
-# Files Included
-
-| File | Description |
-|------|-------------|
-| Spotify_Music_Analysis.pbix | Power BI project |
-| dashboard.png | Dashboard preview |
-| dataset.csv | Dataset used |
-| README.md | Project documentation |
-
----
-
 # Future Enhancements
 
 Potential improvements include:
